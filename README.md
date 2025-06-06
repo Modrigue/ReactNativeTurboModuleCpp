@@ -1,4 +1,4 @@
-This is a functional React Native Turbo Module example in C++, including custom type.
+This is a functional React Native Turbo Module example in C++, including custom type and structure.
 
 Commands:
 
