@@ -17,4 +17,5 @@ npx react-native run-android
 From:
 
 <https://reactnative.dev/docs/the-new-architecture/pure-cxx-modules>
+
 <https://reactnative.dev/docs/the-new-architecture/custom-cxx-types>
